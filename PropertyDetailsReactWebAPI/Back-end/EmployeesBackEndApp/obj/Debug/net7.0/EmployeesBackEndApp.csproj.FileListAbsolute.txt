@@ -1,0 +1,132 @@
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\appsettings.json
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\EmployeesBackEndApp.staticwebassets.endpoints.json
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\EmployeesBackEndApp.exe
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\EmployeesBackEndApp.deps.json
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\EmployeesBackEndApp.runtimeconfig.json
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\EmployeesBackEndApp.dll
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\EmployeesBackEndApp.pdb
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\EmployeesBackEndApp.csproj.AssemblyReference.cache
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\EmployeesBackEndApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\EmployeesBackEndApp.AssemblyInfoInputs.cache
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\EmployeesBackEndApp.AssemblyInfo.cs
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\EmployeesBackEndApp.csproj.CoreCompileInputs.cache
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\EmployeesBackEndApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\EmployeesBackEndApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\scopedcss\bundle\EmployeesBackEndApp.styles.css
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\staticwebassets\msbuild.EmployeesBackEndApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\staticwebassets\msbuild.EmployeesBackEndApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\staticwebassets\msbuild.build.EmployeesBackEndApp.props
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EmployeesBackEndApp.props
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EmployeesBackEndApp.props
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\Employee.F825621C.Up2Date
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\EmployeesBackEndApp.dll
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\refint\EmployeesBackEndApp.dll
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\EmployeesBackEndApp.pdb
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\EmployeesBackEndApp.genruntimeconfig.cache
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\ref\EmployeesBackEndApp.dll
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\Azure.Core.dll
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\Azure.Storage.Blobs.dll
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\Azure.Storage.Common.dll
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\System.ClientModel.dll
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\System.IO.Hashing.dll
+C:\Deepak\Projects\React front-end with a .NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\appsettings.json
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\EmployeesBackEndApp.staticwebassets.endpoints.json
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\EmployeesBackEndApp.exe
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\EmployeesBackEndApp.deps.json
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\EmployeesBackEndApp.runtimeconfig.json
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\EmployeesBackEndApp.dll
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\EmployeesBackEndApp.pdb
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\Azure.Core.dll
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\Azure.Storage.Blobs.dll
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\Azure.Storage.Common.dll
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\System.ClientModel.dll
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\System.IO.Hashing.dll
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\EmployeesBackEndApp.csproj.AssemblyReference.cache
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\EmployeesBackEndApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\EmployeesBackEndApp.AssemblyInfoInputs.cache
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\EmployeesBackEndApp.AssemblyInfo.cs
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\EmployeesBackEndApp.csproj.CoreCompileInputs.cache
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\EmployeesBackEndApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\EmployeesBackEndApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\scopedcss\bundle\EmployeesBackEndApp.styles.css
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\staticwebassets\msbuild.EmployeesBackEndApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\staticwebassets\msbuild.EmployeesBackEndApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\staticwebassets\msbuild.build.EmployeesBackEndApp.props
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EmployeesBackEndApp.props
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EmployeesBackEndApp.props
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\Employee.F825621C.Up2Date
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\EmployeesBackEndApp.dll
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\refint\EmployeesBackEndApp.dll
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\EmployeesBackEndApp.pdb
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\EmployeesBackEndApp.genruntimeconfig.cache
+C:\Deepak\Projects\PropertyDetails-React-front-end -.NET Web API back-end application\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\ref\EmployeesBackEndApp.dll
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\appsettings.json
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\EmployeesBackEndApp.staticwebassets.endpoints.json
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\EmployeesBackEndApp.exe
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\EmployeesBackEndApp.deps.json
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\EmployeesBackEndApp.runtimeconfig.json
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\EmployeesBackEndApp.dll
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\EmployeesBackEndApp.pdb
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\Azure.Core.dll
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\Azure.Storage.Blobs.dll
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\Azure.Storage.Common.dll
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\System.ClientModel.dll
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\System.IO.Hashing.dll
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\EmployeesBackEndApp.csproj.AssemblyReference.cache
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\EmployeesBackEndApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\EmployeesBackEndApp.AssemblyInfoInputs.cache
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\EmployeesBackEndApp.AssemblyInfo.cs
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\EmployeesBackEndApp.csproj.CoreCompileInputs.cache
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\EmployeesBackEndApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\EmployeesBackEndApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\scopedcss\bundle\EmployeesBackEndApp.styles.css
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\staticwebassets\msbuild.EmployeesBackEndApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\staticwebassets\msbuild.EmployeesBackEndApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\staticwebassets\msbuild.build.EmployeesBackEndApp.props
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EmployeesBackEndApp.props
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EmployeesBackEndApp.props
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\Employee.F825621C.Up2Date
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\EmployeesBackEndApp.dll
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\refint\EmployeesBackEndApp.dll
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\EmployeesBackEndApp.pdb
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\EmployeesBackEndApp.genruntimeconfig.cache
+C:\Deepak\Projects\PropertyDetailsReactWebAPI\Back-end\EmployeesBackEndApp\obj\Debug\net7.0\ref\EmployeesBackEndApp.dll
